@@ -1,4 +1,4 @@
-💳 Banking Fraud Analysis
+💳 Bank Fraud Risk Analysis
 
 This project leverages Python and Pandas to tackle the critical challenge of digital banking fraud.
 By analyzing transactional patterns and customer demographics, the system identifies suspicious activities in real-time.
